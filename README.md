@@ -110,6 +110,7 @@ This explores how Hapi-FHIR is used to accept and process HL7 FHIR messages for 
 5.	Upload CSV files to Google Looker Studio
  6.Create Visualization
  7. Real-time functionality enabled for Google Looker studio to refresh every 15 minutes
+    ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/7ff6bf5ccfc018e20c9170d82025deaace09d085/Screenshot%202025-04-18%20010649.png)
     
 
 
