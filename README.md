@@ -49,5 +49,18 @@ access.
    ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/f5a7ea77bd1d1a9906429b9c69cb5c44974d2aaa/Screenshot%202025-02-17%20132154.png)
    ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/21ed4e5269e69c3a13f53aded900efa345642237/Screenshot%202025-02-17%20132546.png)
 
+   # Architecture Development Part 3:Generation of Synthea Patient and Syndromic Surveillance Data for Hospital EHRS to Stimulate Disease Outbreak
+   I used Synthea to generate synthetic patient data for simulating disease outbreaks. It helps test EHR systems and public health responses without using real patient data. While not as complex as real-world data, it’s a valuable, privacy-safe tool for outbreak modeling and healthcare system testing.
+   The following are the steps i undretook in the development of this architecture:
+   
+1. Installed Synthea
+2. Downloaded the latest version of Synthea from the official GitHub repository
+3. Created a directory for Synthea and move the JAR file
+4. Generated disease Simulation Message on the Synthea directory
+   Below are the pictorial evidence of my work
+   
+
+   
+
 
 
