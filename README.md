@@ -58,7 +58,7 @@ access.
 3. Created a directory for Synthea and move the JAR file
 4. Generated disease Simulation Message on the Synthea directory
    Below are the pictorial evidence of my work
-   ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/96f73a921894e96f91700b577ac35b52d1305097/Architecture%20Part%203.docx)
+   ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/743bea00dba68ffd36c808ea11ec38516eb32b9c/Screenshot%202025-04-17%20232305.png)
    
 
    
