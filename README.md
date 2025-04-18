@@ -84,6 +84,21 @@ access.
 Below is the installed Hapi-FHIR server
 
 ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/7b36121e4fc55f98245349b94e5869add7b50042/hapifhir.png)
+
+# Architecture Development Part 5: Interoperability-FHIR Data Exchange with HAPI-FHIR
+This explores how Hapi-FHIR is used to accept and process HL7 FHIR messages for public health surveillance. With it, I can pull key data like patient info, lab results, and clinical observations from EHRs in real time. This helps public health teams track outbreaks faster and make informed decisions to protect population health.
+ steps:
+ 1.	Installed POSTMAN
+ 2.	Logged in to HAPI-FHIR Virtual Machine
+ 3.	CRUD Operations using HAPI FHIR REST API
+ 4.	Created a New Practitioner
+ 5.	Searched for Practitioner instances
+ 6.	Searched with Conditions
+ 7.	HAPI FHIR Dashboard
+ 8.	Python REST API
+
+    
+
     
 
    
