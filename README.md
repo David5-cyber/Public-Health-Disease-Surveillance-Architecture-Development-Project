@@ -44,6 +44,7 @@ access.
 7.	8. Keep OpenEMR up to date
 
    Below are the screenshots of the OpenEMR for each of the four hospitals:
+   ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/17abaf4be15d4ef08b271e43f5156866481b1407/Screenshot%202025-02-17%20131505.png)
 
 
 
