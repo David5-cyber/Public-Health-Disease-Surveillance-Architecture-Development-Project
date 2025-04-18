@@ -69,17 +69,17 @@ access.
    This project i  installed and configured a Hapi-FHIR server, an open-source tool based on the FHIR standard for secure healthcare data exchange. Hapi-FHIR supports interoperability and real-time sharing of health information, crucial for public health monitoring and outbreak response. While it offers flexibility and collaboration benefits, it requires investment in training and infrastructure. Overall, Hapi-FHIR helps improve data-driven decision-making and enhances coordination during public health emergencies.
    I went through the following steps in installation and configuartion:
    
-1.	Logged in into UPHIE VM
+ 1.	Logged in into UPHIE VM
    
-2.	Ensured docker is running
+ 2.	Ensured docker is running
    
-3.	Installed HAPI FHIR
+ 3.	Installed HAPI FHIR
     
-4.	Fetched the Latest HAPI FHIR Image
+ 4.	Fetched the Latest HAPI FHIR Image
    
-5.	 Configuration via the overridden application.yaml file
+ 5.	 Configuration via the overridden application.yaml file
     
-6.	 Deployed Docker Container
+ 6.	 Deployed Docker Container
    
 Below is the installed Hapi-FHIR server
 
