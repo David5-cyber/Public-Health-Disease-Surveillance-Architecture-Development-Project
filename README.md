@@ -24,6 +24,7 @@ The table below shows compatibility followed by a screenshot of the virtual mach
  In this project, i installed and configured OpenEMR, an open-source electronic health record (EHR) system, on four virtual hospital machines. OpenEMR is widely used for managing patient records, scheduling, billing, and clinical workflows. Its open-source nature makes it cost-effective and highly customizable, especially beneficial for small or resource-limited healthcare settings. While it lacks the robust support of commercial systems and can be complex to set up, OpenEMR plays a key role in improving patient care, ensuring compliance, and driving the digital transformation of healthcare through innovation and accessibility.
 
 These following are the steps i went through in installing OpenEMR and ensuring that it is secured
+
 OpenEMR installation
 1. Update and upgrade Ubuntu Server
 2. Install necessary packages:
