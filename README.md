@@ -99,6 +99,20 @@ This explores how Hapi-FHIR is used to accept and process HL7 FHIR messages for 
  8.	Python REST API
     ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/7ed61f961089e8030ccd522b72aae7a349643c65/response.code.png)
 
+    # Architecture Development Part 6:Aggregation and Visualization of Data for Disease Outbreak Surveillance
+   	This involves aggregating FHIR-based patient data from four hospitals to support real-time public health analytics. The goal is to help health professionals and the public make informed decisions through clear visualizations. This work aids in outbreak detection, resource planning, public awareness, and evidence-based policymaking to improve health outcomes.
+
+    steps involved
+1.	Collect FHIR-based .json files
+2.	Understand the FHIR structure
+3.	 3.Write a Python script to aggregate the data
+4.	Convert the aggregated data to CSV format
+5.	Upload CSV files to Google Looker Studio
+ 6.Create Visualization
+ 7. Real-time functionality enabled for Google Looker studio to refresh every 15 minutes
+    
+
+
     
 
     
