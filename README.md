@@ -4,7 +4,7 @@ This project simulates a regional healthcare IT architecture using virtual machi
 This project was focused on building a healthcare network using five virtual machines (VMs)—four representing hospitals namely;Aspirus Hospital,Portage Health,Baraga County Memorial Hospital,and Marquette General Hospital and one for the Upper Peninsula Health Information Exchange (UPHIE). The hospital VMs will run an OS compatible with OpenEMR, while the UPHIE VM will support HAPI-FHIR. All VMs  shared a common IP scheme to enable seamless connectivity and data exchange. The goal is to create a safe, controlled environment to explore health IT architecture, EMR systems, and interoperability standards like FHIR, bridging classroom concepts with real-world healthcare technology applications.
 steps involved in setting up the virtual machine environment:
 
-1.Establishment a VPN connection
+1.Establishment of a VPN connection
 
 2.Accessed the institution's cluster
 
