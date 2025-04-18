@@ -62,6 +62,7 @@ access.
    ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/05bd0fb169ccc8995812a94ff6bdf3a5dd0c4252/Aspirus%20Hospital%20(1).png)
    ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/ca7d687b5a6a2c7d68b1fd8b12ae9edfdcf0db67/Baraga%20Hospital%20(1).png)
    ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/e6137d1056f04afad6e3667773d6c706e404b367/Marquette%20Hospital.png)
+   ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/342897377c65ddda2f171546e212d7d74bd1425f/Portage%20Hospital.png)
    
 
    
