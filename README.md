@@ -41,7 +41,7 @@ OpenEMR installation
 5.	Restart Apache:
 6.	Ensure that all user accounts within OpenEMR have strong, unique passwords to reduce the risk of unauthorized
 access.
-7.	8. Keep OpenEMR up to date
+7.	 Keep OpenEMR up to date
 
    Below are the screenshots of the OpenEMR for each of the four hospitals:
    ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/17abaf4be15d4ef08b271e43f5156866481b1407/Screenshot%202025-02-17%20131505.png)
@@ -69,7 +69,7 @@ access.
    I went through the following steps in installation and configuartion:
 1.	Logged in into UPHIE VM
    
-3.	Ensured docker is running
+2.	Ensured docker is running
    
 3.	Installed HAPI FHIR
     
@@ -79,6 +79,7 @@ access.
     
 6.	 Deployed Docker Container
 Below is the installed Hapi-FHIR server
+
 ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/7b36121e4fc55f98245349b94e5869add7b50042/hapifhir.png)
     
 
