@@ -6,10 +6,15 @@ steps involved in setting up the virtual machine environment:
 1.Establishment a VPN connection
 
 2.Accessed the institution's cluster
+
 3.Navigated the virtual machines
+
 4.Deployed and configured virtual marchines
+
 5.Configured all five(5) virtual machines to operate within the same IP address range and subnet
+
 6.Assigned each virtual machine to a hospital
+
 The table below shows compatibility followed by a screenshot of the virtual machines created
 ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/9d0a46f4be536f8a69a75d240737b6190afadacc/Screenshot%202025-04-17%20205010.png)
 ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/24a731c95f569b5c732627f0cce948de524a6c71/Screenshot%202025-04-17%20212956.png)
