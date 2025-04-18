@@ -79,6 +79,7 @@ access.
 5.	 Configuration via the overridden application.yaml file
     
 6.	 Deployed Docker Container
+   
 Below is the installed Hapi-FHIR server
 
 ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/7b36121e4fc55f98245349b94e5869add7b50042/hapifhir.png)
