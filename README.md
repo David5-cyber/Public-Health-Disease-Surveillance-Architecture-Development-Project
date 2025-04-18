@@ -96,6 +96,7 @@ This explores how Hapi-FHIR is used to accept and process HL7 FHIR messages for 
  6.	Searched with Conditions
  7.	HAPI FHIR Dashboard
  8.	Python REST API
+    ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/7ed61f961089e8030ccd522b72aae7a349643c65/response.code.png)
 
     
 
