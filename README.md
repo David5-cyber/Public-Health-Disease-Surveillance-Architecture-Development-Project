@@ -47,6 +47,7 @@ access.
    ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/17abaf4be15d4ef08b271e43f5156866481b1407/Screenshot%202025-02-17%20131505.png)
    ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/535b13f6f8063ed10efc09d3b78bd3f625c08a6e/Screenshot%202025-02-17%20131940.png)
    ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/f5a7ea77bd1d1a9906429b9c69cb5c44974d2aaa/Screenshot%202025-02-17%20132154.png)
+   ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/21ed4e5269e69c3a13f53aded900efa345642237/Screenshot%202025-02-17%20132546.png)
 
 
 
