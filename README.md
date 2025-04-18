@@ -19,3 +19,31 @@ steps involved in setting up the virtual machine environment:
 The table below shows compatibility followed by a screenshot of the virtual machines created
 ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/9d0a46f4be536f8a69a75d240737b6190afadacc/Screenshot%202025-04-17%20205010.png)
 ![](https://github.com/David5-cyber/Public-Health-Disease-Surveillance-Architecture-Development-Project/blob/24a731c95f569b5c732627f0cce948de524a6c71/Screenshot%202025-04-17%20212956.png)
+
+# Architecture Development Part 2:Installation, Configuration and Security of OpenEMR
+ In this project, i installed and configured OpenEMR, an open-source electronic health record (EHR) system, on four virtual hospital machines. OpenEMR is widely used for managing patient records, scheduling, billing, and clinical workflows. Its open-source nature makes it cost-effective and highly customizable, especially beneficial for small or resource-limited healthcare settings. While it lacks the robust support of commercial systems and can be complex to set up, OpenEMR plays a key role in improving patient care, ensuring compliance, and driving the digital transformation of healthcare through innovation and accessibility.
+
+These following are the steps i went through in installing OpenEMR and ensuring that it is secured
+OpenEMR installation
+1. Update and upgrade Ubuntu Server
+2. Install necessary packages:
+ Installed the LAMP stack (Linux, Apache, MySQL, PHP)
+3. Create a MySQL database and user for OpenEMR:
+4. Download and extract OpenEMR:
+5. Configure Apache: 
+6. Complete OpenEMR installation via the web-based setup.
+
+ Steps  used in securing OpenEMR on virtual machine using Ubuntu server
+1.	Update and upgrade Ubuntu Server:
+2.	 Enable automatic security updates
+3.	 Configure a firewall:
+4.	 Secure Apache:
+5.	Restart Apache:
+6.	Ensure that all user accounts within OpenEMR have strong, unique passwords to reduce the risk of unauthorized
+access.
+7.	8. Keep OpenEMR up to date
+
+   Below are the screenshots of the OpenEMR for each of the four hospitals:
+
+
+
