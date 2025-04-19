@@ -88,7 +88,8 @@ This explores how Hapi-FHIR is used to accept and process HL7 FHIR messages for 
     
 
   # Architecture Development Part 6:Aggregation and Visualization of Data for Disease Outbreak Surveillance
-   	This involves aggregating FHIR-based patient data from four hospitals to support real-time public health analytics. The goal is to help health professionals and the public make informed decisions through clear visualizations. This work aids in outbreak detection, resource planning, public awareness, and evidence-based policymaking to improve health outcomes.
+  
+ This involves aggregating FHIR-based patient data from four hospitals to support real-time public health analytics. The goal is to help health professionals and the public make informed decisions through clear visualizations. This work aids in outbreak detection, resource planning, public awareness, and evidence-based policymaking to improve health outcomes.
 
     steps involved
     
