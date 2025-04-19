@@ -100,7 +100,7 @@ This explores how Hapi-FHIR is used to accept and process HL7 FHIR messages for 
 -Create Visualization
 - Real-time functionality enabled for Google Looker studio to refresh every 15 minutes
 
-link to Google Looker studio: https://lookerstudio.google.com/u/1/reporting/85358366-c921-40b8-8eb0-48eb8c18d32c/page/0OJGF
+link to Dashboard: https://lookerstudio.google.com/u/1/reporting/85358366-c921-40b8-8eb0-48eb8c18d32c/page/0OJGF
 
     
 
