@@ -91,6 +91,7 @@ This explores how Hapi-FHIR is used to accept and process HL7 FHIR messages for 
    	This involves aggregating FHIR-based patient data from four hospitals to support real-time public health analytics. The goal is to help health professionals and the public make informed decisions through clear visualizations. This work aids in outbreak detection, resource planning, public awareness, and evidence-based policymaking to improve health outcomes.
 
     steps involved
+    
 -	Collect FHIR-based .json files
 -	Understand the FHIR structure
 -Write a Python script to aggregate the data
